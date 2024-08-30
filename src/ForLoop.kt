@@ -1,7 +1,9 @@
 fun main() {
 
     var array = arrayOf("Bibit", "Raikhan", "Azzaki", "Syifa", "Haju", "Anjay")
+
     var total = 0
+
     for (name in array) {
         println(name)
         total++
