@@ -1,5 +1,10 @@
+
+//val lambdaName: (parameterType) -> returnType = { parameters -> body }
+
+
 // method references
 fun toUpper(value: String): String = value.uppercase()
+
 
 fun main() {
 
