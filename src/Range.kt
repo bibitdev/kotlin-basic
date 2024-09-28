@@ -1,5 +1,10 @@
 fun main() {
 
+    val jarak = 1..10
+    for(i in jarak) {
+        println("jarak $i")
+    }
+
     val range = 0..99
 //    val range = 100 downTo 2
 //    val range = 100 downTo 2 step 5

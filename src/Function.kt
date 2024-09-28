@@ -1,4 +1,11 @@
 // Function
+
+// Penulisan function
+/*
+    fun (param1: TypeData, param2: TypeData): return type {
+    return result
+    }
+**/
 fun helloWorld() {
     println("Hello World")
     println("Let's Learn Kotlin")
